@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- ===================== HERO ===================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=MAHMOUD%20EBRAHIM&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&color=0:00C6FF,50:0072FF,100:6A00FF" width="100%"/>
 
