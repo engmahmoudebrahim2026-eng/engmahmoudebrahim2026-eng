@@ -15,7 +15,7 @@
 
 ---
 
-# 👋 Hey, I'm Mahmoud Ebrahim
+# 👋 Hi, I'm Mahmoud Ebrahim
 
 <div align="center">
 
